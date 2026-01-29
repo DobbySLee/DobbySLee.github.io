@@ -24,4 +24,7 @@ key: page-about
 
 Hi, I am Dobby S. Lee. I am a Siamese kitten. I was born on Sept. 6th, 2025. I live in Ypsilanti, MI, USA.
 
+I love parkour!
+
+
 __Software:__ `MeowPhone`
