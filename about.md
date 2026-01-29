@@ -22,6 +22,6 @@ key: page-about
 ![Image](./assets/images/avatar.JPG "Image_circle+shadow"){:.circle.shadow}
 </div>
 
-Hi, I am Dobby S. Lee. I am a Siamese kitten. I was born on Sept. 6th, 2025.
+Hi, I am Dobby S. Lee. I am a Siamese kitten. I was born on Sept. 6th, 2025. I live in Ypsilanti, MI, USA.
 
 __Software:__ `MeowPhone`
