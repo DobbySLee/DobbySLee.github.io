@@ -40,7 +40,7 @@ author:
   type      : person  # "person" (default), "organization"
   name      : Dobby Siamese Lee
   url       :
-  avatar    : assets/images/kitten.png  # path or url of avatar image (square)
+  avatar    : /favicon.svg  # path or url of avatar image (square)
   bio       : I am a cute kitten.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
